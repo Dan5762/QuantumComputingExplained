@@ -85,6 +85,11 @@ a {
   color: inherit;
 }
 
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
 button {
   padding: var(--unit);
   font-family: "Satoshi",sans-serif;
